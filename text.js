@@ -8,3 +8,8 @@ const textAction = 'last'; // first | middle | last
 const word = 'Labas';
 const letter = text[textAction](word);
 console.log(`${textAction} letter of word "${word}" is ${letter}`);
+
+
+
+
+
